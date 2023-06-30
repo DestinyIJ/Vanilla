@@ -12,7 +12,7 @@ dist
 dist-ssr
 *.local
 
-gallery360/images
+gallery360/images/*
 
 # Editor directories and files
 .vscode/*
