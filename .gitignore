@@ -12,7 +12,7 @@ dist
 dist-ssr
 *.local
 
-gallery360/images/*
+*/images/*
 *.png
 
 # Editor directories and files
